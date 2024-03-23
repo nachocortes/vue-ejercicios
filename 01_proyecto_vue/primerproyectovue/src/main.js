@@ -1,5 +1,5 @@
 import './assets/bootstrap.scss'
-import Alert from 'bootstrap/js/dist/alert'
+import * as bootstrap from 'bootstrap'
 
 import { createApp } from 'vue'
 import App from './App.vue'
